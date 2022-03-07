@@ -1,6 +1,6 @@
 # Mega-Meta-paper-simulations
 
-A code repository for the mega meta paper; 
+A code repository for:
 >Systematic reviewing using Active Learning-based neural networks: the case of the onset, maintenance, and relapse of depressive disorders.
 
 ## Abstract
