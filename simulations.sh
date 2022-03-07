@@ -11,8 +11,8 @@ SWITCHSTATE="28065 16735 10124 43062 29153 12013 34962 45599 15007 30358 6076 35
 
 mkdir simulation_output/NB/
 
-#asreview simulate data/brouwer_clean.csv -s simulation_output/NB/nb_tf-idf.h5 --model nb --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
-#asreview simulate data/brouwer_clean.csv -s simulation_output/NB/lr_tf-idf.h5 --model logistic --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
+asreview simulate data/brouwer_clean.csv -s simulation_output/NB/nb_tf-idf.h5 --model nb --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
+asreview simulate data/brouwer_clean.csv -s simulation_output/NB/lr_tf-idf.h5 --model logistic --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/svm_tf-idf.h5 --model svm --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/rf_tf-idf.h5 --model rf --feature_extraction tfidf --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/lr_sbert.h5 --model logistic --feature_extraction sbert --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
