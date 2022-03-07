@@ -27,7 +27,7 @@ The content in this repository is published under the MIT license.
 ## Contact
 
 For any questions or remarks, please contact the corresponding author: 
->Rens van de Schoot: Department of Methods and Statistics, Utrecht University, P.O. Box 80.140, 3508TC, Utrecht, The Netherlands; 
->E-mail address: a.g.j.vandeschoot@uu.nl.
+>Jelle Teijema: Department of Methods and Statistics, Utrecht University, 3508TC, Utrecht, The Netherlands; 
+>E-mail address: j.j.teijema@uu.nl.
 
 For questions regarding this reposity, use the [issue](https://github.com/JTeijema/Mega-Meta-paper-simulations/issues) tab.
