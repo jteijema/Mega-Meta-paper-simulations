@@ -21,6 +21,7 @@ asreview simulate data/brouwer_clean.csv -s simulation_output/NB/rf_doc2vec.h5 -
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/lr_doc2vec.h5 --model lr --feature_extraction doc2vec --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/nn_doc2vec.h5 --model nn-2-layer --feature_extraction doc2vec --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 asreview simulate data/brouwer_clean.csv -s simulation_output/NB/power-cnn_wide-doc2vec.h5 --model power_cnn --feature_extraction wide_doc2vec --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
+asreview simulate data/brouwer_clean.csv -s simulation_output/NB/lr_doc2vec.h5 --model logistic --feature_extraction doc2vec --n_queries min --init_seed 400 --seed 200 --prior_idx $SWITCHSTATE
 
 
 # Runs from LR switchpoint (367 + 50)
