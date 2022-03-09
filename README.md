@@ -12,6 +12,7 @@ WIP
 Folders:
 - `plots` - A folder containing generated images.
 - `simulation_states` - A folder containing the simulation states for different simulation runs.
+- `results` - Contains files with result statistics.
 
 Files:
 - `feature_extractor_times.xlsx` - An excel file containing average feature extractor computation times.
