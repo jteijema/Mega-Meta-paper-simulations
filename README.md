@@ -7,6 +7,11 @@ A code repository for:
 
 WIP
 
+## Data
+
+The data used for this paper can be found at https://osf.io/r45yz/. The file is called `Brouwer_2019_deduplicated.xlsx (Version: 1)`.
+
+
 ## Contents
 
 Folders:
