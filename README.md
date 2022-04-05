@@ -11,6 +11,7 @@ WIP
 
 Folders:
 - `plots` - A folder containing generated images.
+- `simulation_output` - A folder containing simulation output.
 - `simulation_states` - A folder containing the simulation states for different simulation runs.
 - `results` - Contains files with result statistics.
 
