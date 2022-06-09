@@ -34,7 +34,8 @@ called `Brouwer_2019_deduplicated.xlsx (Version: 1)`.
 
 Folders:
 - `plots` - A folder containing generated images.
-- `simulation_output` - This folder is available at https://osf.io/3h2tw/.
+- `simulation_output` - This folder is available at https://osf.io/3h2tw/ for NB
+  simulations files, and https://osf.io/zngmy/ for LR simulations files.
 - `simulation_states` - A folder containing the simulation states for different
   simulation runs.
 - `results` - Contains files with statistics from the simulations.
@@ -60,5 +61,5 @@ For any questions or remarks, please contact the corresponding author:
 >Jelle Teijema: Department of Methods and Statistics, Utrecht University,
 >3508TC, Utrecht, The Netherlands; E-mail address: j.j.teijema@uu.nl.
 
-For questions regarding this reposity, use the
+For questions regarding this repository, use the
 [issue](https://github.com/JTeijema/Mega-Meta-paper-simulations/issues) tab.
