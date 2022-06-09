@@ -34,8 +34,6 @@ called `Brouwer_2019_deduplicated.xlsx (Version: 1)`.
 
 Folders:
 - `plots` - A folder containing generated images.
-- `simulation_output` - This folder is available at https://osf.io/3h2tw/ for NB
-  simulations files, and https://osf.io/zngmy/ for LR simulations files.
 - `simulation_states` - A folder containing the simulation states for different
   simulation runs.
 - `results` - Contains files with statistics from the simulations.
@@ -47,7 +45,10 @@ Files:
 
 
 ## Simulation results
-All simulation results can be found at https://osf.io/3h2tw/.
+The simulation results from this paper are stored at a OSF location; they're
+available at https://osf.io/3h2tw/ for NB simulations files, and
+https://osf.io/zngmy/ for LR simulations files. These files were used for the
+fourth study of the paper.
 
 
 ## Licence
