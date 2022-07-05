@@ -3,8 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Teijema
     given-names: Jelle
-    orcid: 
+    orcid:  https://orcid.org/0000-0001-9282-4311 
 title: "A code repository for: Active learning-based Systematic reviewing using switching classification models: the case of the onset, maintenance, and relapse of depressive disorders"
-version: -
-doi: -
-date-released: -
+version: v0.1
+date-released: 2022-07-05
