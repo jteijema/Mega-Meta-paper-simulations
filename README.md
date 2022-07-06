@@ -1,5 +1,10 @@
 # Mega-Meta-paper-simulations
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6799806.svg)](https://doi.org/10.5281/zenodo.6799806)
+
+
 A code repository for:
 >Active learning-based Systematic reviewing using switching classification
 >models: the case of the onset, maintenance, and relapse of depressive disorders
