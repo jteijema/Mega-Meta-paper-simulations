@@ -4,6 +4,12 @@ authors:
   - family-names: Teijema
     given-names: Jelle
     orcid:  https://orcid.org/0000-0001-9282-4311 
+  - family-names: Van de Schoot
+    given-names: Rens
+    orcid:  https://orcid.org/0000-0001-7736-2091
+  - family-names: Bagheri
+    given-names: Ayoub
+    orcid:  https://orcid.org/0000-0001-6366-2173
 title: "A code repository for: Active learning-based Systematic reviewing using switching classification models: the case of the onset, maintenance, and relapse of depressive disorders"
 version: v0.1
 doi: 10.5281/zenodo.6799806
